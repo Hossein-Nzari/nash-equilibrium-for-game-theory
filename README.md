@@ -1,5 +1,5 @@
 # Game Theory Project: Customs Import vs. Domestic Quality Improvement
-In this project, we determine when the customs department decides to import cars and when to ban imports.
+In this group project, we determine when the customs department decides to import cars and when to ban imports.
 
 ## Overview
 
